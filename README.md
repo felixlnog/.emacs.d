@@ -97,13 +97,3 @@ versions (see "Updates" above). If you still experience problems, go ahead and
 [file an issue on the github project](https://github.com/purcell/emacs.d).
 
 -Steve Purcell
-
-<hr>
-
-[![](http://api.coderwall.com/purcell/endorsecount.png)](http://coderwall.com/purcell)
-
-[![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](http://uk.linkedin.com/in/stevepurcell)
-
-[sanityinc.com](http://www.sanityinc.com/)
-
-[@sanityinc](https://twitter.com/)
